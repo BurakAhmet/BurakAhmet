@@ -6,3 +6,5 @@ You can get in touch with me via [LinkedIn](https://www.linkedin.com/in/ahmet-bu
 Here is my other pages:
 - [HackerRank](https://www.hackerrank.com/ahmetburakbicer)
 - [LeetCode](https://leetcode.com/ahmetburakbicer/)
+
+---
