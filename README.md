@@ -1,7 +1,7 @@
 # Hello,
 I am Computer Engineering student in Turkey. 
 
-I am interested in **artificial intelligence** and **machine learning**. I am currently studying on these.
+I am interested in **artificial intelligence** and **machine learning**. I am currently studying on these subjects.
 
 **You can get in touch with me via [LinkedIn](https://www.linkedin.com/in/ahmet-burak-bi%C3%A7er-0338181b2/).**
 
